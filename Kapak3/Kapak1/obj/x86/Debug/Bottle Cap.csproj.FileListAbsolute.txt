@@ -1,0 +1,34 @@
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak2\Kapak1\obj\x86\Debug\Kapak1.exe
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak2\Kapak1\obj\x86\Debug\Kapak1.pdb
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.exe
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.pdb
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Bottle Cap.csprojResolveAssemblyReference.cache
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.Form1.resources
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.Properties.Resources.resources
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Bottle Cap.csproj.GenerateResource.Cache
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\Kapak1.exe
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\Kapak1.pdb
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\AForge.Controls.dll
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\AForge.dll
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\AForge.Imaging.dll
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\AForge.Math.dll
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\AForge.Video.DirectShow.dll
+S:\sabrican\CanProje2016\Kapak Otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\AForge.Video.dll
+C:\Users\Mustafa\Desktop\2016-2017\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.exe
+C:\Users\Mustafa\Desktop\2016-2017\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.pdb
+C:\Users\Mustafa\Desktop\2016-2017\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\Kapak1.exe
+C:\Users\Mustafa\Desktop\2016-2017\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\Kapak1.pdb
+C:\Users\Mustafa\Desktop\2016-2017\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Bottle Cap.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\2016-2017\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.Form1.resources
+C:\Users\Mustafa\Desktop\2016-2017\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\2016-2017\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Bottle Cap.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\Kapak1.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\bin\Debug\Kapak1.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Bottle Cap.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Bottle Cap.csproj.GenerateResource.Cache
+C:\User\Hakan_Documents\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.exe
+C:\User\Hakan_Documents\Hakan_Projects\band_görüntü_işleme_kapak_otomasyonu\Kod\Kapak3\Kapak1\obj\x86\Debug\Kapak1.pdb
